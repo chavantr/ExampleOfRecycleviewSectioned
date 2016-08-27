@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_i">Credit card</string>
+
+    <string name="action_ii">Invoice</string>
+
+    <string name="action_iii">Business</string>
+</resources>
